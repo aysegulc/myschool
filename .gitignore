@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+*.egg-info
+build
+*.csv
+*.json
+*.txt
+.scrapy
+!myschool/resources/*.csv
